@@ -19,7 +19,7 @@ int main(){
  ios::sync_with_stdio(false);
  cin.tie(nullptr);
  
- int n;
+ ll n;
  cin >> n;
  
  for(int i = 1; i < 1e6; i++){
